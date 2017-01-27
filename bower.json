@@ -1,0 +1,31 @@
+{
+  "name": "Starter pack",
+  "homepage": "https://github.com/D0rulet/js-starter",
+  "description": "JS environment using bower grunt gulp sass browser-sync",
+  "main": "index.js",
+  "keywords": [
+    "JS",
+    "Environment",
+    "bower",
+    "grunt",
+    "gulp",
+    "sass",
+    "browser-sync"
+  ],
+  "authors": [
+    "D0rulet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "^1.12.1",
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.6.1"
+  }
+}
